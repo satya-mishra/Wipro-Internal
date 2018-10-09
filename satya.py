@@ -1,4 +1,3 @@
-line1
-line2
-lin3
-lin4
+print ("satya")
+print ("Arnab")
+print (1+2)
